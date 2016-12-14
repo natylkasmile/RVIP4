@@ -1,0 +1,7 @@
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\bin\Debug\MPI.exe
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\bin\Debug\MPI.pdb
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\bin\Debug\MPI.dll
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\bin\Debug\MPI.xml
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\obj\Debug\MPI.csprojResolveAssemblyReference.cache
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\obj\Debug\MPI.exe
+C:\Users\Natasha\Documents\Visual Studio 2015\Projects\MPI\MPI\obj\Debug\MPI.pdb
